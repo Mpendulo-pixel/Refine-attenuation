@@ -1,2 +1,2 @@
 # Refine-attenuation
-Testing the antenna's attenuation after routine maintainance
+Testing Meerkat antenna's attenuation after routine maintainance
